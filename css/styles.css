@@ -1,0 +1,41 @@
+body {
+  background-color: #95dac1;
+}
+
+h1 {
+  color: #39a388;
+  text-shadow: 2px 2px white;
+}
+
+h3 {
+  color: #39a388;
+}
+
+a {
+  color: #95aeda;
+}
+
+h4 {
+  color: #39a388;
+}
+
+tr {
+  color: white;
+}
+
+ul {
+  color: white;
+}
+
+ol {
+  color: white;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 10px;
+  background-color: #95dac1;
+  width: 65%;
+}
